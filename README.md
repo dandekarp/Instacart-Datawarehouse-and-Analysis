@@ -1,4 +1,4 @@
-# Instacart-Market-Basket-Analysis
+# Instacart-DataWarehouse-and-Analysis
 
 ## Project: 
 Data Warehouse of Instacart Data Set
